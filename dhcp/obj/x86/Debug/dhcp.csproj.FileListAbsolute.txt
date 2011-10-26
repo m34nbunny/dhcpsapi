@@ -1,0 +1,5 @@
+c:\users\steven\documents\visual studio 2010\Projects\dhcp\dhcp\bin\Debug\dhcp.exe
+c:\users\steven\documents\visual studio 2010\Projects\dhcp\dhcp\bin\Debug\dhcp.pdb
+c:\users\steven\documents\visual studio 2010\Projects\dhcp\dhcp\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\steven\documents\visual studio 2010\Projects\dhcp\dhcp\obj\x86\Debug\dhcp.exe
+c:\users\steven\documents\visual studio 2010\Projects\dhcp\dhcp\obj\x86\Debug\dhcp.pdb

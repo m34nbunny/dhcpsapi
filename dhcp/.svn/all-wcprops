@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/3/dhcp/dhcp
+END
+dhcpclient.cs
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/3/dhcp/dhcp/dhcpclient.cs
+END
+dhcpsapimethods.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/dhcp/dhcp/dhcpsapimethods.cs
+END
+dhcpscopeoption.cs
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/dhcp/dhcp/dhcpscopeoption.cs
+END
+dhcpstructures.cs
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/dhcp/dhcp/dhcpstructures.cs
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/dhcp/dhcp/Program.cs
+END
+dhcp.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/dhcp/dhcp/dhcp.csproj
+END
